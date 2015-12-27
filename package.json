@@ -11,6 +11,10 @@
     "random",
     "phrase"
   ],
-  "author": "Thor Garcia",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/Thor99/angry-phrases"
+  },
+  "author": "Thor Garcia <thor.fc21@gmail.com> (https://github.com/Thor99)",
   "license": "MIT"
 }
