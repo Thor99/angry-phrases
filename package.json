@@ -1,0 +1,16 @@
+{
+  "name": "angry-phrase",
+  "version": "1.0.0",
+  "description": "Get some random angry phrase :D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angry",
+    "random",
+    "phrase"
+  ],
+  "author": "Thor Garcia",
+  "license": "MIT"
+}
