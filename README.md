@@ -1,6 +1,6 @@
 # Angry-Phrases
 
-This is a pretty non-sense NPM package made to get some random angry phrases. And yes, some phrases have bad words. Enjoy.  :smile:
+This is a pretty non-sense NPM package, made to get some random angry phrases. And yes, some phrases have bad words. Enjoy.  :smile:
 
 ***
 
