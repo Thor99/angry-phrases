@@ -1,6 +1,6 @@
 {
   "name": "angry-phrase",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "private": false,
   "description": "Get some random angry phrase :D",
   "main": "index.js",
@@ -10,7 +10,9 @@
   "keywords": [
     "angry",
     "random",
-    "phrase"
+    "phrase generator",
+    "phrase",
+    "bad"
   ],
   "repository" : {
     "type" : "git",
