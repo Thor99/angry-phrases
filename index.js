@@ -1,4 +1,6 @@
-listPhrases =
+'use strict';
+
+const listPhrases = 
     ['You suck.', 'You deserve to die.', 'Law should not be applied to you.',
     'Fuck off everything.', 'I do not care.', 'Burn in hell.', 'More hate, please.',
     'Your mom does not like you.', 'Your father does not like you.',
@@ -7,7 +9,4 @@ listPhrases =
     'Fuck global warming.', 'The world is my toilet.',
     'This is not my problem.'];
 
-exports.getGreatPhrase = function(){
-    var phrase = listPhrases[Math.floor(Math.random()*listPhrases.length)];
-    return phrase;
-}
+module.exports = () => listPhrases[ 0| Math.random() * listPhrases.length];
