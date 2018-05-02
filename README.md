@@ -14,10 +14,10 @@ This is a pretty non-sense NPM package, made to get some random angry phrases. A
 
 ``` js
 
-var angry = require('angry-phrase');
+const angry = require('angry-phrase')
 
-var phrase = angry.getGreatPhrase();
+const phrase = angry.getGreatPhrase()
 
-console.log("Inspiring Phrase: " + phrase);
+console.log(`Inspiring Phrase: ${phrase}`)
 
 ```
