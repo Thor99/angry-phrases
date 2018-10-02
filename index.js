@@ -7,6 +7,7 @@ const listPhrases =
     'How about you die?', 'Fuck your religion, fuck your dreams, fuck you.',
     'Might be shit to be you.', 'I will kill you.', 'Merry christmas and burn.',
     'Fuck global warming.', 'The world is my toilet.',
-    'This is not my problem.', 'You are a cunt.'];
+    'This is not my problem.', 'You are a cunt.', 'Dogs hate you',
+    'I hope you burn in boiling blood', 'You are worthless'];
 
 module.exports = () => listPhrases[ 0| Math.random() * listPhrases.length];
