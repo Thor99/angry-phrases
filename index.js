@@ -9,6 +9,6 @@ const listPhrases =
     'Fuck global warming.', 'The world is my toilet.',
     'This is not my problem.', 'You are a cunt.', 'Die please.',
     'The only useful thing you do is to exhale carbon dioxide for trees.' 
-    'When I look at work I feel like I\'m looking at pig\'s poo.'];
+    'Whenever I look at your work I feel like I\'m looking at pig\'s poo.'];
 
 module.exports = () => listPhrases[ 0| Math.random() * listPhrases.length];
